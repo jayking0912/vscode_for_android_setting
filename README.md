@@ -1,0 +1,2 @@
+# vscode_for_android_setting
+vsocd_for_android 语言安装指南
